@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقع بسيط</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        img {
+            width: 300px; /* يمكنك تعديل الحجم حسب الحاجة */
+            height: auto;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>توصل يا حسام بالسلامة</h1>
+    <p>لا تنسى الدايت</p>
+    <img src="Photo by William Choquette from Pexels: https://www.pexels.com/photo/an-on-treadmill-1954524/" alt="Photo by cottonbro studio from Pexels: https://www.pexels.com/photo/back-view-of-a-swimmer-standing-by-the-poolside-9629818/" />
+</body>
+</html>
